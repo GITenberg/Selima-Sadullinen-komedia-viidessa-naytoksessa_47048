@@ -1,4 +1,5 @@
 _repo: Selima-Sadullinen-komedia-viidessa-naytoksessa_47048
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hannikainen, Pietari
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '5858'
     url: http://www.gutenberg.org/2009/agents/5858
     wikipedia: http://fi.wikipedia.org/wiki/Pietari_Hannikainen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47048#Selima-Sadullinen-komedia-viidessa-naytoksessa
 gutenberg_issued: '2014-10-05'
 gutenberg_type: Text
 identifiers:
